@@ -1,7 +1,7 @@
 import pandas as pd
 
-df = pd.read_csv("Z:/codes/python/pandas/importing and Slection/data.csv", index_col="Name")
-#df = pd.read_csv("data.csv")
+df = pd.read_csv("Z:/codes/python/pandas/importing and Slection/pokemon.csv", index_col="Name")
+#df = pd.read_csv("pokemon.csv")
 #print(df)
 #print(df.to_string())
 

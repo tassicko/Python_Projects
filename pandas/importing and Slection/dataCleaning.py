@@ -1,7 +1,7 @@
 import pandas as pd
 from pandas.core.interchange.from_dataframe import primitive_column_to_ndarray
 
-df = pd.read_csv("Z:/codes/python/pandas/importing and Slection/data.csv")
+df = pd.read_csv("Z:/codes/python/pandas/importing and Slection/pokemon.csv")
 
 #drop irrelevant columns
 # df = df.drop(columns=["Legendary"])
